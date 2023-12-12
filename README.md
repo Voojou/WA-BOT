@@ -2,17 +2,17 @@
 
 
 <p align="center">
-<img src="https://github.com/caliphdev.png" width="128" height="128"/>
+<img src="https://github.com/voojou.png" width="128" height="128"/>
 </p>
 
 
 <p align="center">
-  <a href="//github.com/caliphdev/bot-whatsapp">
+  <a href="//github.com/voojou/WA-BOT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caliphdev&repo=bot-whatsapp&theme=tokyonight" />
    </a>
 </p>
 <p align="center">
-<a href="//github.com/caliphdev"><img src="https://img.shields.io/badge/Author-Caliph-red.svg?style=for-the-badge&logo=github"/><a/>
+<a href="//github.com/voojou"><img src="https://img.shields.io/badge/Author-Caliph-red.svg?style=for-the-badge&logo=github"/><a/>
 </p>
 <p align="center">
 <a href="https://javascript.com"><img src="https://img.shields.io/badge/Made%20With-javascript-cyan.svg?style=for-the-badge&logo=javascript"/><a/>
@@ -23,7 +23,7 @@
 # Termux
 ```bash
 > pkg install git -y
-> git clone https://github.com/caliphdev/bot-whatsapp
+> git clone https://github.com/voojou/WA-BOT
 > cd bot-whatsapp
 > bash install.sh
 > node index
@@ -32,7 +32,7 @@
 # Ubuntu
 ```bash
 > sudo apt install git -y
-> sudo git clone https://github.com/caliphdev/bot-whatsapp
+> sudo git clone https://github.com/voojou/WA-BOT
 > sudo cd bot-whatsapp
 > sudo bash root.sh
 > sudo node index
