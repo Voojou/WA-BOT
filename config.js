@@ -17,8 +17,8 @@ error : 'Terjadi Kesalahan',
 success: 'Sukses...'
 }
 global.prefix = '🐤'
-global.author = '@caliph91_'
-global.packname = 'WhatsApp Bot'
+global.author = '@voojou'
+global.packname = 'WA-BOT'
 
 
 // LIST APIKEY
