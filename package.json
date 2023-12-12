@@ -1,0 +1,39 @@
+{
+  "name": "WA-BOT",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp Bot With NodeJS",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "github:voojou/baileys",
+    "awesome-phonenumber": "^2.57.0",
+    "axios": "latest",
+    "brainly-scraper": "1.0.3",
+    "cheerio": " 1.0.0-rc.10",
+    "cookie": "0.4.0",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "rumus-bdr": "^1.0.0",
+    "jsdom": "^16.5.1",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "mathjs": "9.5.0",
+    "node-fetch": "^2.6.1",
+    "node-webpmux": "^2.0.2",
+    "qrcode": "1.4.4",
+    "wikijs": "6.3.2",
+    "yargs": "^17.0.1"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js",
+    "server": "node . --server"
+  },
+  "author": "voojou",
+  "license": "ISC"
+}
