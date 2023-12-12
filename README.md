@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="//github.com/voojou/WA-BOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Voojou&repo=bot-whatsapp&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Voojou&repo=WA-BOT&theme=tokyonight" />
    </a>
 </p>
 <p align="center">
